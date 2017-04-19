@@ -1,0 +1,1 @@
+[{"ip":"192.168.1.102","port":5672,"exchange":"exchange","truck":"receive","username":"lqj","password":"lqj"}]
